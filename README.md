@@ -3,7 +3,7 @@
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/indrarahul2013/Tetris/graphs/commit-activity)
 [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/indrarahul2013/Tetris/issues)
 <br>
-[![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](http://www.cplusplus.com)
+[![forthebadge made-with-c++](https://forthebadge.com/images/badges/made-with-c-plus-plus.svg)](http://www.cplusplus.com)
 [![ForTheBadge built-with-love](http://ForTheBadge.com/images/badges/built-with-love.svg)](http://www.cplusplus.com)
 <br>
 
